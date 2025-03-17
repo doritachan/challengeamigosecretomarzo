@@ -34,7 +34,7 @@ Bienvenido/a al **Juego de Amigo Secreto**, una aplicación interactiva que perm
 Si deseas clonar el repositorio desde GitHub, usa el siguiente comando:
 
 ```sh
-git clone https://github.com/doritachan/amigosecreto
+git clone [https://github.com/doritachan/amigosecreto](https://github.com/doritachan/challengeamigosecretomarzo)
 Luego, abre index.html en un navegador para jugar. 🏆
 
 📝 Autor

@@ -132,7 +132,7 @@ button {
 }
 
 .button-add:hover {
-    background-color: #a1a1a1;
+    background-color: #f22e69;
 }
 
 /* Listas */
@@ -146,7 +146,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #df0584;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
@@ -169,5 +169,5 @@ ul {
 }
 
 .button-draw:hover {
-    background-color: var(--color-button-hover);
+    background-color: var(#C2185B);
 }

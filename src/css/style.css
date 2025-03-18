@@ -1,9 +1,8 @@
 :root {
     --color-primary: #fd4b85;
     --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    
-    --color-text: #444444;
+    --color-tertiary: #fd4b8d82;
+    --color-text: #ff0053;
     --color-white: #FFFFFF;
 }
 
@@ -132,7 +131,7 @@ button {
 }
 
 .button-add:hover {
-    background-color: #f22e69;
+    background-color: #ca0a44;
 }
 
 /* Listas */
@@ -169,5 +168,8 @@ ul {
 }
 
 .button-draw:hover {
-    background-color: var(#C2185B);
+    background-color: var(#72053f);
+    background-color: var(--color-hover); /* rosado claro en hover */
+    color: rgb(255, 0, 64); /* Asegura visibilidad del texto */
+}
 }
